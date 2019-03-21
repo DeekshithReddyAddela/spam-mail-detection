@@ -2,6 +2,8 @@
 
 install python 3
 
+unzip train-mails
+
 #run in cmd
 #navigate to project folder
 
